@@ -1,4 +1,4 @@
-# Dockerfile for reddit-mobile --- AAAAAAAAAAAWWWWWWWWWWWWWWW  YIISSSSSS
+# Dockerfile for reddit-mobile --- OH NO!
 
 FROM nodesource/vivid:4.2.3
 
