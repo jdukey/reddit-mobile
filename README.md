@@ -3,7 +3,7 @@ reddit-mobile
 
 [![Build Status](https://travis-ci.org/reddit/reddit-mobile.svg?branch=master)](https://travis-ci.org/reddit/reddit-mobile)
 
-I AM A COMMENT!!!
+I AM NOT A COMMENT DESPITE APPEARANCES!!!
 
 reddit-mobile is a web server and build system for building polymorphic
 React applications in node. It is part of a larger series of plugins that,
